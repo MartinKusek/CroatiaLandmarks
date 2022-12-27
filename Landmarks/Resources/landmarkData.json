@@ -1,0 +1,322 @@
+[
+    {
+        "name": "Brijuni",
+        "category": "Nacionalni parkovi",
+        "city": "Twentynine Palms",
+        "state": "Istra",
+        "id": 1001,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Istarska županija",
+        "coordinates": {
+            "longitude": 13.752051711534467,
+            "latitude":  44.91956610702721
+        },
+        "description": "Brijuni imaju bogatu povijest: prvi, zasada nama poznati tragovi ljudskog djelovanja na Brijunima, sežu u treće tisućljeće prije Krista, kada su na Brijunima živjeli etnički nepoznati stanovnici koji su se bavili ratarstvom, stočarstvom, lovom i ribolovom, a oružje i oruđe izrađivali su od kamena, kostiju i pruća... Za vrijeme velike Egejske seobe naroda u prvom tisućljeću prije Krista na Brijune dolazi ilirsko pleme Histri, po kojima je kasnije Istra i dobila ime. Nakon kojih su došli Rimljani, a od 6. do 8. st. otočjem je (kao i Istrom) vladao Bizant. Na Brijunima postoje mnogi kulturno-povijesni ostaci od kojih su najpoznatiji i najsačuvaniji: rimski ladanjski dvorac iz I.-II. st. s termama, Venerinim hramom, zatim Bizantski kastrum, te bazilika Sv. Marije iz V.-VI. stoljeća, crkva Sv. Germana iz 15. stoljeća. Zahvaljujući svojoj razvedenoj obali, povijesti, raznovrsnoj flori i fauni, zbog čega Brijune znaju zvati 'raj na Zemlji', Brijuni su 27. listopada 1983. godine proglašeni nacionalnim parkom i omiljena su turistička destinacija.",
+        "imageName": "brijuni"
+    },
+    {
+        "name": "Kornati",
+        "category": "Nacionalni parkovi",
+        "city": "Port Alsworth",
+        "state": "Dalmacija",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Šibensko-kninska županija",
+        "coordinates": {
+            "longitude": 15.232222504115006,
+            "latitude": 43.877411514067845
+        },
+        "description": "Nacionalnim parkom je proglašen 1980. i tada je stavljen pod zaštitu. Ukupna površina parka je oko 220 km² a sastoji se od 89 otoka, otočića i hridi. Od površine parka, samo oko 1/4 je kopno, dok je preostali dio morski ekosustav. Obiluje prirodnim i kulturnim posebnostima. Okomite litice 'krune' kornatskih otoka okrenute prema otvorenom moru najpopularniji su fenomen ovoga parka. One su i staništa rijetkih vrsta. Svijet kornatskoga podmorja otkriva pak neke druge zadivljujuće priče. A dobro je znati i to da je kopneni dio Parka u privatnom vlasništvu.",
+        "imageName": "kornati"
+    },
+    {
+        "name": "Krka",
+        "category": "Nacionalni parkovi",
+        "city": "Skagway",
+        "state": "Dalmacija",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Šibensko-kninska županija",
+        "coordinates": {
+            "longitude": 15.972538510016284,
+            "latitude": 43.864954767527706
+        },
+        "description": "Nacionalni park je lociran u središnjoj Dalmaciji nizvodno od Knina, a samo par kilometara sjeveroistočno od grada Šibenika. Obuhvaća područje uz rijeku Krku koja izvire u podnožju planine Dinare kod Knina, teče kroz kanjon dug 75 km, protječe kroz Prokljansko jezero, te utječe u Šibenski zaljev. Prostire na 109 kvadratnih kilometara, od kojih 25,6 kvadratnih kilometara čini vodena površina. Rijeka Krka danas ima 7 sedrenih slapova i njezine ljepote predstavljaju prirodni krški fenomen. Nacionalnom parku pripada i donji tok rijeke Čikole.",
+        "imageName": "krka"
+    },
+    {
+        "name": "Mljet",
+        "category": "Nacionalni parkovi",
+        "city": "Browning",
+        "state": "Dalmacija",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Dubrovačko-neretvanska županija",
+        "coordinates": {
+            "longitude": 17.41354259531791,
+            "latitude": 42.77137926064149
+        },
+        "description": "Nacionalni park Mljet obuhvaća zapadnu trećinu otoka Mljeta, od područja Crna klada do najzapadnije točke otoka, rta Goli. U sastav nacionalnog parka ulaze naselja Polače (glavna turistička i putnička luka), Goveđari (u čiji sastav ulaze naselja Babine Kuće (najstarije naselje na Jezerima), Soline (malo mjesto na ulazu u Veliko jezero) i Pristanište (mjesto s poštom i upravom nacionalnog parka) te Pomena (bivše ribarsko naselje stanovnika Goveđara, a danas mjesto s jedinim hotelom na otoku).",
+        "imageName": "mljet"
+    },
+    {
+        "name": "Paklenica",
+        "category": "Nacionalni parkovi",
+        "city": "Twin Lakes",
+        "state": "Dalmacija, Lika",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Zadarska, Ličko-senjska županija",
+        "coordinates": {
+            "longitude": 15.481852259998007,
+            "latitude": 44.341186399267066
+        },
+        "description": "Nacionalni park Paklenica je po proglašenju drugi nacionalni park u Hrvatskoj, proglašen još 19. listopada 1949. godine, tek nekoliko mjeseci nakon NP Plitvička jezera. Riječ je o 2031 hektaru šume na lokacijama Suva draga - Klimenta i Oglavinovac - Javornik u Nacionalnom parku Paklenici. Iznimnost predloženih iskonskih bukovih šuma u nacionalnim parkovima Sjevernom Velebitu i Paklenici temelji se na njihovoj izvornosti, geografskom položaju, starosti i veličini. Temeljni fenomeni NP Paklenica su šume i geomorfološke osobitosti parka. U gotovo nešumskom južnom dijelu Velebita u Paklenici se javlja izrazito bogatstvo šumskih zajednica, a posebno mjesto zauzimaju šume crnog bora (Pinus nigra) po čijoj je smoli (Paklini) koja se je iz njih u prošlosti vadila Paklenica i dobila ime, te bukve (Fagus sylvatica) i bora krivulja.",
+        "imageName": "paklenica"
+    },
+    {
+        "name": "Plitvička jezera",
+        "category": "Nacionalni parkovi",
+        "city": "West Glacier",
+        "state": "Lika",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Ličko-senjska, Karlovačka županija",
+        "coordinates": {
+            "longitude": 15.581958253537673,
+            "latitude": 44.86546501716975
+        },
+        "description": "Nacionalni park Plitvička jezera osobita je geološka i hidrogeološka krška pojava. Kompleks Plitvičkih jezera proglašen je nacionalnim parkom 8. travnja 1949. godine. To je najveći, najstariji i najposjećeniji hrvatski nacionalni park. Predstavlja šumovit planinski kraj u kojem se nalazi 16 jezera različite veličine, ispunjenima kristalnom modrozelenom vodom. Jezera dobivaju vodu od brojnih rječica i potoka, a međusobno su spojena kaskadama i slapovima. Sedrene barijere, koje su nastale u razdoblju od desetak tisuća godina, jedna su od temeljnih osobitosti Parka. Poseban zemljopisni položaj i specifične klimatske značajke pridonijeli su nastanku mnogih prirodnih fenomena i bogatoj biološkoj raznolikosti. Sedreni sedimenti oblikovani su od pleistocena do danas u vrtačama i depresijama između okolnih planina. Gornja jezera na jugu pretežno se sastoje od dolomita, a Donja jezera na sjeveru od vapnenačkih stijena. 2010-ih pojavila su se nova dva, Sedamnaesto jezero i osamnaesto jezero koja su nastala čovjekovim djelovanjem, no ona nisu ni čista ni estetski lijepa kao ostala.",
+        "imageName": "plitvice"
+    },
+    {
+        "name": "Risnjak",
+        "category": "Nacionalni parkovi",
+        "city": "Eaking",
+        "state": "Gorski kotar",
+        "id": 1007,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Primorsko-goranska županija",
+        "coordinates": {
+            "longitude": 14.683767824911904,
+            "latitude": 45.41764700182789
+        },
+        "description": "Osnovu parka čini masiv planine Risnjak, s vrhom na 1528 metara, a 1997. godine površina parka povećana je na 6400 hektara i danas je na području parka izvor rijeke Kupe. Park je izrazit primjer visinskog raščlanjenja dinarskoga planinskoga sustava u reljefnom, geološkom, hidrološkom i klimatskom pogledu, biljnom pokrovu i životinjskom svijetu. Područje je podijeljeno u dvije zone: zonu stroge i zonu usmjerene zaštite - u užoj zoni mnogo je prirodnih znamenitosti rijetke ljepote zbog kojih je ono i uvršteno u najviši stupanj zaštićene prirode.",
+        "imageName": "risnjak"
+    },
+    {
+        "name": "Sjeverni Velebit",
+        "category": "Nacionalni parkovi",
+        "city": "Icy Bay",
+        "state": "Lika",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Ličko-senjskoj županija",
+        "coordinates": {
+            "longitude": 15.063034416119763,
+            "latitude": 44.820112311343166
+        },
+        "description": "Raznovrsnost krških fenomena te biljnoga i životinjskoga svijeta samo su dio posebne slike ove prirodne cjeline. Zahvaljujući svom zemljopisnom položaju, krški reljef vapnenca i ponekih sedimentnih stijena pješčenjaka je pod izravnim utjecajem tri klime: mediteranske, kontinentalne i alpske. Unutar parka nalaze se strogi rezervat Hajdučki i Rožanski kukovi, Lukina jama - jedna od najdubljih jama na svijetu (otkrivena 1999.), botanički rezervat 'Visibaba' s nalazištem endemične hrvatske sibireje (Sibiraea altaiensis ssp. croatica), šumski rezervat Borov vrh, botanički rezervat Zavižan-Balinovac-Velika kosa te glasoviti Velebitski botanički vrt. Na krajnjem jugu se nalazi posebni rezervat šumske vegetacije Štirovača Park je ispresijecan brojnim planinarskim stazama, od kojih je najpoznatija Premužićeva staza. Površina parka iznosi 109 km².",
+        "imageName": "sjeverni_velebit"
+    },
+    {
+        "name": "Biokovo",
+        "category": "Parkovi prirode",
+        "city": "Willow",
+        "state": "Dalmacija",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Splitsko-dalmatinska županija",
+        "coordinates": {
+            "longitude": 17.07474094353389,
+            "latitude": 43.3316435171615
+        },
+        "description": "Park prirode Biokovo jedan je od 11 parkova prirode u Republici Hrvatskoj i obuhvaća istoimeni planinski masiv Biokovo. Parkom prirode proglašen je 1981. godine, s površinom od 195,5 km2. Park se administrativno nalazi u Splitsko-dalmatinskoj županiji i obuhvaćaju ga općine Brela, Baška Voda, Makarska, Tučepi, Podgora, Zagvozd, Zadvarje i Šestanovac. Najviši vrh parka Sveti Jure s 1762 metra nadmorske visine ujedno je i najviši vrh planine Biokovo te treći najviši vrh u Hrvatskoj. Biokovo se ističe izraženim krškim reljefom. Na tom se području nalazi velik broj špilja i jama te ponikava, škrapa i kamenica. Neka od glavnih obilježja Parka prirode Biokovo su jama Amfora (-788 m) te najdublja jama na Biokovu jama Mokre noge (-842 m) i mnoge endemične biljne i životinjske vrste te značajna paleontološka nalazišta. Uz prekrasne krajobraze i vidikovce, u parku se nalaze i posebni geomorfološki rezervati i posebni rezervati šumske vegetacije bukve i jele te autohtone šume crnog dalmatinskog bora.",
+        "imageName": "biokovo"
+    },
+    {
+        "name": "Dinara",
+        "category": "Parkovi prirode",
+        "city": "Newhalem",
+        "state": "Dalmacija",
+        "id": 1010,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Splitsko-dalmatinska, Šibensko-kninska županija",
+        "coordinates": {
+            "longitude": 16.387788310432935,
+            "latitude": 44.062523041144146
+        },
+        "description": "Dinarski je krš međunarodno prepoznat fenomen koji obuhvaća puno šire područje, a upravo je po Dinari kao tipskome lokalitetu dobio i ime. To je najvrjednija prirodna cjelina krša u svijetu, s naslagama debljima od osam kilometara te s izrazito razvijenima krškima poljima koja sadržavaju sve krške pojave. Područje Dinare izrazito je bogato endemičnima i ugroženima vrstama. Obitavalište je više od 1000 biljnih vrsta (petina ukupne hrvatske flore), od toga 75 nacionalnih endema. Poznato je više od 20 endemskih vrsta životinja, a od toga i jedan sisavac – dinarski voluhar (Dinaromys bogdanovi). Na Dinari se nalazi i najviši vrh Republike Hrvatske – Dinara, još poznat pod nazivom Sinjal (1831 metara). Na području Parka prirode Dinara nalazi se 11 područja ekološke mreže (2 područja za ptice i 9 za vrste i staništa) tako da je 87 % područja Parka prirode „Dinara“ ujedno i područje ekološke mreže Natura 2000. Visoki dinarski travnjaci (rudine) najvažnije su stanište endemskog planinskog žutokruga (Vipera ursinii macrops) Hrvatskoj.",
+        "imageName": "dinara"
+    },
+    {
+        "name": "Kopački rit",
+        "category": "Parkovi prirode",
+        "city": "Chincoteague",
+        "state": "Slavonija",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Osječko-baranjska županija",
+        "coordinates": {
+            "longitude": 18.789990679257663,
+            "latitude": 45.61063073125371
+        },
+        "description": "Park prirode Kopački rit je poplavno područje u Baranji, na sjeveroistoku Hrvatske, između rijeka Dunav na istoku i Drave na jugu. Utemeljen je 1976. godine. Park prirode je ukupne veličine 17.700 ha (177 km2), od čega Specijalni zoološki rezervat obuhvaća 8.000 ha (80 km2). Administrativno se nalazi u općini Bilje, Osječko-baranjska županija. Najstariji je proglašeni park prirode u Hrvatskoj. Kopački rit je jedna od najvećih fluvijalno-močvarnih nizina u Europi. Ovo područje tijekom godine značajno mijenja svoj izgled, ovisno o intenzitetu plavljenja, pretežno iz Dunava, te mnogo manje iz Drave. Najveće je rastilište i mrijestilište slatkovodne ribe u Podunavlju i najvažniji ornitološki rezervat u Hrvatskoj. U njemu se svake godine gnijezdi oko 140 vrsta ptica, a velika bioraznolikost od 2000 bioloških vrsta odraz je bogate flore i faune parka.",
+        "imageName": "kopacki_rit"
+    },
+    {
+        "name": "Lonjsko polje",
+        "category": "Parkovi prirode",
+        "city": "Errol",
+        "state": "Slavonija",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Sisačko-moslavačka županija",
+        "coordinates": {
+            "longitude": 16.82575603783146,
+            "latitude": 45.28381865075039
+        },
+        "description": "Park prirode Lonjsko polje, sa svojom površinom od 50.650 ha, najveće je zaštićeno močvarno područje ne samo u Republici Hrvatskoj, već i u cijelom dunavskom porječju. Nalazi u aluvijalnoj ravnici rijeke Save u središnjem slivu rijeke Save, između gradova Siska i Stare Gradiške. Čine ga tri polja: Lonjsko, Mokro i Poganovo. Ubraja se među najugroženije močvarne dijelove u svijetu, iako ga štiti Ramsarska konvencija od 3. veljače 1993. godine. Najznačajniji ekološki element u Parku prirode Lonjsko polje su poplave koje se mogu dogoditi u bilo koje doba godine, zbog izvanrednih konstelacija rijeke Save i njezinih pritoka.",
+        "imageName": "lonjsko_polje"
+    },
+    {
+        "name": "Medvednica",
+        "category": "Parkovi prirode",
+        "city": "Errol",
+        "state": "Zagreb",
+        "id": 1013,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Zagrebačka županija",
+        "coordinates": {
+            "longitude": 15.952047485877376,
+            "latitude": 45.91219375932683
+        },
+        "description": "Šume Medvednice spuštaju se gotovo do samog središta Zagreba. Osim mira i zelenila, ova planina obiluje bogatim i raznolikim životinjskim svijetom te posebnostima kao što su Šumska staza 'Bliznec' za osobe s invaliditetom, špilja Veternica, srednjovjekovni rudnici Zrinski i Francuski rudnici, Sljemenska kapelica, 500 Horvatovih stuba... Najviši vrh Medvednice je Sljeme, visoko 1033 m. Na njemu se nalazi radiotelevizijski toranj visok 169 m. Do 2007. godine do vrha je vodila žičara. Na Sljemenu se nalazi i skijaška staza na kojoj se održava utrka Snježna kraljica.",
+        "imageName": "medvednica"
+    },
+    {
+        "name": "Papuk",
+        "category": "Parkovi prirode",
+        "city": "Errol",
+        "state": "Slavonija",
+        "id": 1014,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Virovitičko-podravska, Požeško-slavonska županija",
+        "coordinates": {
+            "longitude": 17.698976167021833,
+            "latitude": 45.50517968277205
+        },
+        "description": "Godine 2007. Papuk je zbog vrijednog geološkog nasljeđa postao dijelom europske i svjetske asocijacije geoparkova i prvim geoparkom u Hrvatskoj — Geopark Papuk. Glavno obilježje istočnog dijela Hrvatske – Slavonije - su nizinske ravnice s velikim kultiviranim područjima. Iz te ravnice koja je nekad bila dno Panonskog mora izdižu se planine na gotovo tisuću metara nadmorske visine. Jedna od tih planina je i Papuk - najljepša planina u Slavoniji. Geomorfološke, klimatske i vegetacijske karakteristike Parka prirode Papuk osiguravaju odlična prirodna staništa za brojne biljne i životinjske vrste. Šumska vegetacija pokriva više od 96% područja. Dominantna vrsta drveća je bukva.",
+        "imageName": "papuk"
+    },
+    {
+        "name": "Telašćica",
+        "category": "Parkovi prirode",
+        "city": "Errol",
+        "state": "Dalmacija",
+        "id": 1015,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Zadarska županija",
+        "coordinates": {
+            "longitude": 15.155763522747096,
+            "latitude": 43.92067115374259
+        },
+        "description": "Park prirode Telašćica ističe tri temeljna fenomena: uvalu Telašćicu kao najveću i najsigurniju prirodnu jadransku luku, strmce, takozvane 'stene' Dugoga otoka koje se uzdižu do 200 m nad morem i spuštaju u dubinu od 90 m, te slano jezero Mir, ljekovitih svojstava. Uvala Telašćica smještena je u jugoistočnom dijelu Dugoga otoka, okružena je s 13 otoka i otočića, a sadrži i šest otočića unutar uvale (od ulaza prema dnu uvale: Korotan, Galijola, Gozdenjak, Farfarikulac, Burnji Školj i Donji Školj). Proglašena je Parkom prirode 1988. godine. Status zaštićenog područja dobila je još 1980. zahvaljujući svojem iznimno vrijednom biljnom i životinjskom svijetu, geološkim i geomorfološkim fenomenima, vrijednim zajednicama morskog dna te zanimljivom arheološkom nasljeđu. Biljni i životinjski svijet kopna i podmorja čini više od stotinu vrsta.",
+        "imageName": "telascica"
+    },
+    {
+        "name": "Velebit",
+        "category": "Parkovi prirode",
+        "city": "Errol",
+        "state": "Dalmacija",
+        "id": 1016,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Splitsko-dalmatinska županija",
+        "coordinates": {
+            "longitude": 15.046723445029153,
+            "latitude": 44.82781803789433
+        },
+        "description": "Park prirode Velebit je najznačajnije endemsko čvorište flore i kopnene faune u Hrvatskoj. Velebitska degenija (Degenia velebitica), hrvatska gušarka (Arabis croatica), hrvatsko zvonce (Edraianthus graminofolius var. croaticus), riba oštrulja (Aulopyge hugeli), dugonogi šišmiš (Myotis capaccinii) i vuk (Canis lupus) samo su neke od najpoznatijih endemskih i rijetkih vrsta parka prepunog različith krških fenomena.",
+        "imageName": "velebit"
+    },
+    {
+        "name": "Vransko jezero",
+        "category": "Parkovi prirode",
+        "city": "Errol",
+        "state": "Dalmacija",
+        "id": 1017,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Zadarska, Šibensko-kninska županija",
+        "coordinates": {
+            "longitude": 15.580360455626177,
+            "latitude": 43.882495517235704
+        },
+        "description": "Vransko jezero je najveće prirodno jezero u Hrvatskoj. To je jezero zapravo krško polje ispunjeno vodom i rijedak primjer kriptodepresije. U parku je dosada zabilježeno oko 235 vrsta ptica, od čega 102 gnjezdarice (ponajviše ptica močvarica), dok je ostalima jezero odmorište prilikom selidbe ili zimovalište. Prema procjenama u parku za jesenje selidbe dnevno boravi između 20.000 i 200.000 ptica. Posebnost parka je i bogatstvo ribe te razvijeni sportski ribolovni turizam. Dominantna karakteristika Parka je posebni ornitološki rezervat, gotovo netaknutih prirodnih staništa ptica vodarica, rijetkog močvarnog sustava, velike bioraznolikosti, izuzetne znanstvene i ekološke vrijednosti.",
+        "imageName": "vransko_jezero"
+    },
+    {
+        "name": "Učka",
+        "category": "Parkovi prirode",
+        "city": "Errol",
+        "state": "Istra",
+        "id": 1018,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Istarska, Primorsko-goranska županija",
+        "coordinates": {
+            "longitude": 14.214615196413567,
+            "latitude": 45.30894946066887
+        },
+        "description": "Park Prirode Učka se nalazi u planinskom masivu Učke u Hrvatskoj, u blizini grada Rijeke i obuhvaća površinu od 160 četvornih kilometara. Park prirode je proglašen zaštićenim područjem 1999. godine. Blizina mora pogoduje specifičnoj klimi i bujnoj vegetaciji do vršnih predjela. Mnoge zaštićene i rijetke životinjske i biljne vrste se stoga mogu naći u rezervatu.",
+        "imageName": "ucka"
+    },
+    {
+        "name": "Žumberak – Samoborsko gorje",
+        "category": "Parkovi prirode",
+        "city": "Errol",
+        "state": "Zagreb",
+        "id": 1019,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Zagrebačka, Karlovačka županija",
+        "coordinates": {
+            "longitude": 15.485375187091735,
+            "latitude": 45.74663115713654
+        },
+        "description": "Zaštićeno područje Parka prirode obuhvaća izdvojeno brdsko područje Žumberačkog i Samoborskog gorja položenih 30-ak km jugozapadno od Zagreba. Žumberačko gorje više je i zapadnije, a ujedno čini i prirodnu granicu Hrvatske sa Slovenijom, vrh Sv. Gera 1178 m. Samoborsko gorje niže je i pitomije s najvišim vrhom Japetićem (880 m). Prema geološkoj starosti najstarije stijene na području Parka datiraju iz razdoblja paleozoika (perm - prije više od 250 milijuna godina), a u građi prevladavaju dolomiti trijaske starosti te kredne naslage, što je uvjetovalo postanku krša koji prekriva čak 90% površine PP. Ne čudi stoga brojnost površinskih i dubinskih krških oblika, od ponikvi i uvala do špilja, jama i dr. Vegetacijski pokrov čine bukove, te miješane hrastovo-bukove šume koje se izmjenjuju s livadama i pašnjacima nastalim djelovanjem čovjeka. Park prirode Žumberak - Samoborsko gorje oduvijek je bilo omiljeno izletničko odredište planinara, rekreativaca i izletnika s područja šire okolice.",
+        "imageName": "zumberak"
+    },
+    {
+        "name": "Lastovsko otočje",
+        "category": "Parkovi prirode",
+        "city": "Errol",
+        "state": "Dalmacija",
+        "id": 1020,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Dubrovačko-neretvanska županija",
+        "coordinates": {
+            "longitude": 16.86781973997814,
+            "latitude": 42.747186691273214
+        },
+        "description": "Lastovsko otočje je drugi najmlađi hrvatski park prirode, proglašen 2006. godine. Lastovsku otočnu skupinu čine 46 otoka, otočića i hridi vrlo razvedene obale, ukupne površine 53 km2 i 143 km2 morske površine, omeđenih kamenim svjetlima Sušca, Tajana, Glavata i Struge. Posebnu vrijednost cijelom području daje more i podmorje s bogatim i raznolikim živim svijetom. Područje Lastovskog otočja vrijedno je i s kulturno-povijesnog stajališta zbog tradicijske arhitekture i arheoloških lokaliteta na kopnu i u podmorju.",
+        "imageName": "lastovo"
+    }
+]
