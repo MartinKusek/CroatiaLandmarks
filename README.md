@@ -8,10 +8,10 @@ I built this project following Apple SwiftUI Tutorial - Landmarks.
 
 ## Demo
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/MartinKusek/CroatiaLandmarks/blob/main/Gifs/feature.gif)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/MartinKusek/CroatiaLandmarks/blob/main/Gifs/scrollview.gif)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/MartinKusek/CroatiaLandmarks/blob/main/Gifs/list.gif)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/MartinKusek/CroatiaLandmarks/blob/main/Gifs/detail.gif)
